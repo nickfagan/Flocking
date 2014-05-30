@@ -1,7 +1,9 @@
-flocking
-========
+Name: Nick Fagan 
+Student Number: 20342700
+User-id: nmfagan
+Assignment: A5
 
-Bird flocking simulation I created for my final project in Computer Graphics.
+The final executable was compiled on this machine: g11
 
 How to invoke my program: 
 ./flocking prey_flock_size predator_flock_size [-mode all|basic]
@@ -11,3 +13,12 @@ How to invoke my program:
 "mode" sets what will be included in the flocking program, options are:
 	- "all" : runs program with all features.
 	- "basic" : turns off all but the basic flocking features, this lets you run the program with alot more birds so you can see the effects of flocking better.
+
+How to use my extra features: 
+N/A
+
+I have created the following data files, which are in the data directory:
+front.png, back.png, left.png, right.png, and top.png which are used for the skybox.
+
+My program assumes the following: 
+I did not get shadow mapping done.
